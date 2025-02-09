@@ -15,3 +15,8 @@
 - Euros -> Intruder (EVO)
 - Vincent -> Previon (LC Fleet Vehicle)
 - Premier -> Elegant (VC Fleet Vehicle)
+
+
+
+# Handling changes
+- INTRUDER (pasted from SULTAN)
