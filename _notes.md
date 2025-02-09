@@ -9,9 +9,9 @@
 - Infernus
 - RC Bandit
 - RC Cam
+- Fortune (LCS Manana)
 
 # Changed file names from carpack  
 - Euros -> Intruder (EVO)
-- Fortune -> Manana
 - Vincent -> Previon (LC Fleet Vehicle)
 - Premier -> Elegant (VC Fleet Vehicle)
